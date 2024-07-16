@@ -67,21 +67,21 @@ const App = () => {
       id: '1',
       title: 'CheeseCkae',
       description: 'A classic creamy dessert with a graham cracker crust.',
-      image: 'img2.png',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjydZjutjGggeqNOJaIbT27gxZNM4Cu4jR0g&s',
       price: '250',
     },
     {
       id: '2',
       title: 'Chocolate Lava Cake',
       description: 'Warm, gooey chocolate cake filled with molten chocolate.',
-      image: 'img3.png',
+      image: 'https://preppykitchen.com/wp-content/uploads/2022/03/Chocolate-Lava-Cake-Recipe.jpg',
       price: '100',
     },
     {
       id: '3',
       title: 'Tiramisu',
       description: 'Italian dessert made with ladyfingers, mascarpone, and espresso.',
-      image: 'img4.png',
+      image: 'https://www.julieseatsandtreats.com/wp-content/uploads/2019/11/Tiramisu-Recipe-2-of-2.jpg',
       price: '120',
     }
   ];
