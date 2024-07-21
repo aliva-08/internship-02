@@ -1,11 +1,13 @@
 #React-Native
 #React-Native
 
-![Screenshot 2024-07-21 142821](https://github.com/user-attachments/assets/86d156f4-eb5b-4bab-9b2d-f701bf37e25b)
-![Screenshot 2024-07-21 142801](https://github.com/user-attachments/assets/d2195721-a8e0-43aa-98f1-9d770d809b04)
-![Screenshot 2024-07-21 142740](https://github.com/user-attachments/assets/86d10621-c0da-4bf1-9cac-abf148027f83)
-![Screenshot 2024-07-21 142725](https://github.com/user-attachments/assets/4cad13fd-f610-4b09-8102-857aea552c20)
-![Screenshot 2024-07-21 142712](https://github.com/user-attachments/assets/33b06b21-365a-426d-ad15-161b7c26d380)
-![Screenshot 2024-07-21 142649](https://github.com/user-attachments/assets/88f7ac50-bdc3-4ead-b626-04904f520d44)
-![Screenshot 2024-07-21 142554](https://github.com/user-attachments/assets/85bd5b26-65e5-4ec2-bb9d-e4bd5b2e7927)
-![Screenshot 2024-07-21 142838](https://github.com/user-attachments/assets/45d53726-1e12-4320-a856-470942ecedb9)
+
+
+![Screenshot 2024-07-21 142554](https://github.com/user-attachments/assets/f01882df-413c-453b-b31a-08d08a062f60)
+![Screenshot 2024-07-21 142649](https://github.com/user-attachments/assets/920107fa-8444-4071-8630-1939f6b8881f)
+![Screenshot 2024-07-21 142712](https://github.com/user-attachments/assets/2607e219-b9ec-4e91-a926-c85ea46eeb55)
+![Screenshot 2024-07-21 142725](https://github.com/user-attachments/assets/a9932527-8520-471d-bc4d-c4b4646f5ce7)
+![Screenshot 2024-07-21 142740](https://github.com/user-attachments/assets/067dcf17-d4c0-4adf-9283-89b684b752ba)
+![Screenshot 2024-07-21 142801](https://github.com/user-attachments/assets/de665061-e9fa-4609-9b99-5c9c7eed9126)
+![Screenshot 2024-07-21 142821](https://github.com/user-attachments/assets/c303b3c1-14c6-4e81-86a0-c8f39d44f23c)
+![Screenshot 2024-07-21 142838](https://github.com/user-attachments/assets/0edfdd6c-6d38-4185-8938-701e88030b8a)
